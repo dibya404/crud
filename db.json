@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "firstName": " das",
+      "lastName": " sa",
+      "email": "dasda@gmai.com",
+      "mobile": "8531316",
+      "salary": " 50000"
+    },
+    {
+      "id": 4,
+      "firstName": " sdadasdadda",
+      "lastName": " dasd",
+      "email": "dasda@12",
+      "mobile": " 952323",
+      "salary": " 5456656"
+    },
+    {
+      "id": 5,
+      "firstName": "jack",
+      "lastName": " sa",
+      "email": "dasda@gmai.com",
+      "mobile": "8531316",
+      "salary": " 50000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
